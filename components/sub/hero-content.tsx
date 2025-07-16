@@ -35,9 +35,9 @@ export const HeroContent = () => {
           <span>
             welcome&apos; to{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              ROMAN
+             亗 ŘØMĀŇ ᭄
             </span>{" "}
-            cyber security specialist.
+            Flash, Root & Unlocking Specialist.
           </span>
         </motion.div>
 

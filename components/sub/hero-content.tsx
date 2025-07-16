@@ -33,11 +33,11 @@ export const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            It&apos;s Me{" "}
+            welcome&apos; to{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              Khalid Mahmud
+              ROMAN
             </span>{" "}
-            CEO at Team AX.
+            cyber security specialist.
           </span>
         </motion.div>
 

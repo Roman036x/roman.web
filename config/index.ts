@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const siteConfig: Metadata = {
-  title: "Team AX | Khalid Mahmud",
-  description: "Welcome to my portfolio Website by Khalid Mahmud.",
+  title: "ROMAN | By Team AX",
+  description: " welcome to my website by ROMAN.",
   keywords: [
     "reactjs",
     "nextjs",
@@ -35,7 +35,7 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Khalid Mahmud",
+    name: "ROMANxKERNEL",
     url: "https://github.com/",
   },
 } as const;

@@ -92,12 +92,12 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com/_may_b_khalid__",
+    link: "https://instagram.com/rhroman88",
   },
   {
     name: "Facebook",
     icon: FaFacebook,
-    link: "https://facebook.com/",
+    link: "https://facebook.com/roman.fb036",
   },
   {
     name: "Twitter",
@@ -293,7 +293,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/Roman036x/roman.web",
       },
       {
         name: "Discord",
@@ -308,7 +308,7 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com/_may_b_khalid__",
+        link: "https://instagram.com/rhroman88",
       },
       {
         name: "Twitter",
